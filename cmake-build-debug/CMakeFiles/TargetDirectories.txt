@@ -1,0 +1,3 @@
+C:/Users/Dorota/CLionProjects/adventOfCode/cmake-build-debug/CMakeFiles/adventOfCode.dir
+C:/Users/Dorota/CLionProjects/adventOfCode/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dorota/CLionProjects/adventOfCode/cmake-build-debug/CMakeFiles/rebuild_cache.dir

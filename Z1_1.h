@@ -1,6 +1,4 @@
-//
-// Created by Dorota on 10.12.2022.
-//
+
 
 #ifndef ADVENTOFCODE_Z1_1_H
 #define ADVENTOFCODE_Z1_1_H
