@@ -23,7 +23,7 @@ public:
         int currentElves = 0;
         int maxElves = 0;
         for( std::string & value:values){
-            if(value.empty() || value == "END")
+            if(value.empty() || value == "END"){
                 if(currentElves > maxElves){
                     maxElves = currentElves;
                 }
